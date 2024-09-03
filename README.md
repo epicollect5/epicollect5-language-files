@@ -62,7 +62,8 @@ Save and Test: Ensure that the translated files are saved with UTF-8 encoding.
 
 Contributing
 
-If you would like to contribute your translation to the community, please submit a zip file with your translated files to epicollect@cgps.group
+If you would like to contribute your translation to the community, please submit a zip file with your translated files to epicollect&#64;cgps.group 
+
 Make sure to follow the same structure and format as the original English files to ensure compatibility.
 
 Thank you for helping to make Epicollect5 accessible to a global audience!
