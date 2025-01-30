@@ -1,4 +1,6 @@
  const labels =  {
+     project_addition_help_text: 'Projects must be added manually',
+     learn_more:'Learn More',
      temp_deletion_error: 'Error deleting temp files',
      collect_errors: 'Collect errors',
      help_us_improve: 'Help us improve our app',
